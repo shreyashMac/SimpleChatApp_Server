@@ -12,7 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "cryptr": "^6.0.2",
     "express": "^4.17.1",
+    "lodash": "^4.17.20",
     "mongoose": "^5.10.18",
     "ngrok": "^3.3.0",
     "nodemon": "^2.0.6",
